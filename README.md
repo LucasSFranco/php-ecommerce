@@ -1,12 +1,10 @@
 # Site de E-commerce <sup><sub>[IMAGENS DA APLICAÇÃO](https://drive.google.com/drive/folders/1XMB89zABOQ5cJ4vcyEGoVVhQ0kqDDk53?usp=sharing)</sub></sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Foi desenvolvido para um projeto escolar utilizando as seguintes tecnologias:
-- PHP; 
-- MySQL; 
-- API do PagSeguro;
-- JavaScript;
-- CSS;
-- HTML.
+&nbsp;&nbsp;&nbsp;&nbsp;Plataforma de vendas responsiva elaborada para um projeto escolar em `PHP`, `HTML`, `CSS` e `JavaScript` utilizando um banco `MySQL`. Utiliza três níveis de acesso:
+- **administrador:** pode listar, adicionar, excluir e editar produtos e categorias de produtos;  
+- **cliente:** pode ver os produtos disponíveis na loja, adicioná-los ao carrinho de compras e finalizar a compra utilizando a API de desenvolvimento do `PagSeguro`;
+- **visitante:** pode se cadastrar, realizar login e ver os produtos disponíveis na loja. 
+
 
 ### Como pôr em funcionamento
 - Instale o [XAMPP](https://www.apachefriends.org/pt_br/index.html);
