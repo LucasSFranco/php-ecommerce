@@ -8,7 +8,7 @@
 - CSS;
 - HTML.
 
-### Como fazer funcionar
+### Como pôr em funcionamento
 - Instale o [XAMPP](https://www.apachefriends.org/pt_br/index.html);
 - Inicie o funcionamento do MySQL e do Apache na interface de controle do XAMPP;
 - Crie um banco de dados chamado "database" no "localhost/phpmyadmin";
